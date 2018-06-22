@@ -10,8 +10,8 @@ You can check results of implementation in files:
 - install.log
 - delete.log
 
-You can use setup.sh to download, install or delete Google Chrome.
+You can use **setup.sh** to download, install or delete Google Chrome.
 
-You can use nginx.sh to install or delete nginx.
+You can use **nginx.sh** to install or delete nginx.
 The script is valid for Ubuntu xenial. If you want to use the script to another version of Ubuntu, please, replace the version "xenial" to appropriate version.
-You can check available Ubuntu version [here](https://nginx.org/ru/linux_packages.html)
+You can check available Ubuntu version [here](https://nginx.org/ru/linux_packages.html).
