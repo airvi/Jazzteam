@@ -3,8 +3,11 @@
 You can see two Ubuntu scripts in this repository:
 - setup.sh
 - nginx.sh
+
 Please use both scripts with root permissons.
+
 Before start, you need to uncomment parts of the script that you want to implement.
+
 You can check results of implementation in files:
 - download.log
 - install.log
